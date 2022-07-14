@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WalkThroughScreen</string>
+    <string name="start">Bắt đầu</string>
+    <string name="terms">Khi bắt đầu ứng dụng này, bạn đồng ý với Điều khoản sử dụng và Chính sách quyền riêng tư của chúng tôi</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_onboarding_1">Chào mừng đến với Ball Ball</string>
+    <string name="description_onboarding_1">Here is an open-source project which shows sweet &amp; original onboarding ViewPagers that follows Material Design Guidelines</string>
+    <string name="title_onboarding_2">Bắt kèo nhanh chóng</string>
+    <string name="title_onboarding_3">Tạo trận dễ dàng</string>
+
+
+</resources>
